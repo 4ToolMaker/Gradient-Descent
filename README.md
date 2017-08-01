@@ -21,8 +21,9 @@ This is the code for [this](https://youtu.be/xRJCOz3AfYY) video on Youtube by Si
 In the following data
 ListPrice (X) = List price (in $1000) for a GMC pickup truck
 BestPrice(Y) = Best price (in $1000) for a GMC pickup truck
-Reference: Consumer’s Digest
-`
+Reference: Consumer’s Digest`
+
+
 Here are some helpful links:
 
 ### Gradient descent visualization
