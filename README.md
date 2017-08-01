@@ -7,7 +7,7 @@ This is the code for "Intro - The Math of Intelligence" by Siraj Raval on Youtub
 ## Coding Challenge -- Due Date, Thursday June 22nd, 2017
 ---
 
-This week's coding challenge is to implement gradient descent to find the line of best fit that predicts the relationship between 2 variables of your choice from a [kaggle](https://www.kaggle.com/datasets) dataset. Bonus points for detailed documentation. Good luck! Post your github link in the youtube comments section
+This week's coding challenge is to implement gradient descent to find the line of best fit that predicts the relationship between 2 variables of your choice from a [kaggle](https://www.kaggle.com/datasets) dataset or any other opensource dataset. Bonus points for detailed documentation.
 
 ## Overview
 
@@ -19,9 +19,11 @@ This is the code for [this](https://youtu.be/xRJCOz3AfYY) video on Youtube by Si
 ```
 List Price Vs. Best Price for a New GMC Pickup
 
-In the following data
-ListPrice (X) = List price (in $1000) for a GMC pickup truck
-BestPrice(Y) = Best price (in $1000) for a GMC pickup truck
+The following data consist of:
+
+1. ListPrice (X) = List price (in $1000) for a GMC pickup truck
+2. BestPrice(Y) = Best price (in $1000) for a GMC pickup truck
+
 Reference: Consumer’s Digest
 
 ```
@@ -48,7 +50,7 @@ Here are some helpful links:
 
 Python 2 and 3 both work for this. Use [pip](https://pip.pypa.io/en/stable/) to install any dependencies.
 
-## Usage
+## Demo or Usage
 
 Just run `python main.py` to see the results:
 
