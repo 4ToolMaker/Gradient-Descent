@@ -13,7 +13,7 @@ This week's coding challenge is to implement gradient descent to find the line o
 
 ---
 
-This is the code for [this](https://youtu.be/xRJCOz3AfYY) video on Youtube by Siraj Raval. It is a code challenge to implement a gradient descent on any data.  The data I used was cquired from: http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/frame.html
+This is the code for [this](https://youtu.be/xRJCOz3AfYY) video on Youtube by Siraj Raval. It is a code challenge to implement a gradient descent on any data.  The data I used was acquired from: [cengage](http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/frame.html)
 
 
 `List Price Vs. Best Price for a New GMC Pickup
