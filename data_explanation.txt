@@ -1,0 +1,11 @@
+
+
+Acquired from: http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/frame.html
+
+
+List Price Vs. Best Price for a New GMC Pickup
+
+In the following data
+ListPrice (X) = List price (in $1000) for a GMC pickup truck
+BestPrice(Y) = Best price (in $1000) for a GMC pickup truck
+Reference: Consumer’s Digest
