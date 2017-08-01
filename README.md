@@ -16,12 +16,15 @@ This week's coding challenge is to implement gradient descent to find the line o
 This is the code for [this](https://youtu.be/xRJCOz3AfYY) video on Youtube by Siraj Raval. It is a code challenge to implement a gradient descent on any data.  The data I used was acquired from: [cengage](http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/frame.html)
 
 
-`List Price Vs. Best Price for a New GMC Pickup
+```
+List Price Vs. Best Price for a New GMC Pickup
 
 In the following data
 ListPrice (X) = List price (in $1000) for a GMC pickup truck
 BestPrice(Y) = Best price (in $1000) for a GMC pickup truck
-Reference: Consumer’s Digest`
+Reference: Consumer’s Digest
+
+```
 
 
 Here are some helpful links:
@@ -55,6 +58,7 @@ Starting gradient descent at b = 0, m = 0, error = 238.13956769069583
 Running...
 After 1000 iterations b = 0.05045761733686893, m = 0.8727444438670023, error = 0.014459793723847128
 [Finished in 1.337s]
+
 ```
 
 ## Credits
