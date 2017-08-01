@@ -1,12 +1,17 @@
 # Intro_to_the_Math_of_intelligence
 
+---
+
 This is the code for "Intro - The Math of Intelligence" by Siraj Raval on Youtube
 
 ## Coding Challenge -- Due Date, Thursday June 22nd, 2017
+---
 
 This week's coding challenge is to implement gradient descent to find the line of best fit that predicts the relationship between 2 variables of your choice from a [kaggle](https://www.kaggle.com/datasets) dataset. Bonus points for detailed documentation. Good luck! Post your github link in the youtube comments section
 
 ## Overview
+
+---
 
 This is the code for [this](https://youtu.be/xRJCOz3AfYY) video on Youtube by Siraj Raval. It is a code challenge to implement a gradient descent on any data.  The data I used was cquired from: http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/frame.html
 
@@ -21,16 +26,17 @@ Reference: Consumer’s Digest
 Here are some helpful links:
 
 ### Gradient descent visualization
+---
 
-[Alt! img](https://raw.githubusercontent.com/mattnedrich/GradientDescentExample/master/gradient_descent_example.gif)
+![Alt image](https://raw.githubusercontent.com/mattnedrich/GradientDescentExample/master/gradient_descent_example.gif?raw="gdv")
 
 ### Sum of squared distances formula (to calculate our error)
 
-[Alt img](https://spin.atomicobject.com/wp-content/uploads/linear_regression_error1.png)
+![Alt image](https://spin.atomicobject.com/wp-content/uploads/linear_regression_error1.png?raw="sos")
 
 ### Partial derivative with respect to b and m (to perform gradient descent)
 
-[Alt img](https://spin.atomicobject.com/wp-content/uploads/linear_regression_gradient1.png)
+![Alt img](https://spin.atomicobject.com/wp-content/uploads/linear_regression_gradient1.png?raw="partial")
 
 ## Dependencies
 
