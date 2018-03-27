@@ -1,17 +1,16 @@
 # Intro_to_the_Math_of_intelligence
 
----
+
 
 This is the code for "Intro - The Math of Intelligence" by Siraj Raval on Youtube
 
 ## Coding Challenge -- Due Date, Thursday June 22nd, 2017
----
 
 This week's coding challenge is to implement gradient descent to find the line of best fit that predicts the relationship between 2 variables of your choice from a [kaggle](https://www.kaggle.com/datasets) dataset or any other opensource dataset. Bonus points for detailed documentation.
 
 ## Overview
 
----
+
 
 This is the code for [this](https://youtu.be/xRJCOz3AfYY) video on Youtube by Siraj Raval. It is a code challenge to implement a gradient descent on any data.  The data I used was acquired from: [cengage](http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/slr/frames/frame.html)
 
@@ -32,7 +31,7 @@ Reference: Consumer’s Digest
 Here are some helpful links:
 
 ### Gradient descent visualization
----
+
 
 ![Alt image](https://raw.githubusercontent.com/mattnedrich/GradientDescentExample/master/gradient_descent_example.gif?raw="gdv")
 
@@ -65,4 +64,4 @@ After 1000 iterations b = 0.05045761733686893, m = 0.8727444438670023, error = 0
 
 ## Credits
 
-Credits for this code go to [mattnedrich](https://github.com/mattnedrich) and Siraj Ravel.
+Thank you for inspiring me [mattnedrich](https://github.com/mattnedrich) and Siraj Ravel.
